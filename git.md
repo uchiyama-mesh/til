@@ -2,6 +2,13 @@
 
 ## コマンド
 
+### git checkout
+  - ブランチ切り替え
+  - -bをつけると、ブランチ作成と同時に切り替え可能
+
+### git branch
+  - ブランチ作成
+
 ### git lol（alias登録）
 - `git config --global alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"`
 
